@@ -1,6 +1,6 @@
-title: "하루를 시작하는 영어 스터디(English free talking which starting the day)"
+                # 하루를 시작하는 영어 스터디(English free talking which starting the day)
 
-excert: "스터디를 만드는 이유(Why I want to make a study?)"
+스터디를 만드는 이유(Why I want to make a study?)
 1. 불규칙한 생활을 방지하기 위한, 하루를 시작하는 버닝업! ( Burning up the day to prevent irregular living!)
 2. 평소에 하기 힘든 영어 스피킹(It is not common for us to speak English.)
 3. 자신의 계획을 발표함으로서 자신의 목표를 다잡는다. (Set your goals by announcing your plans.)
