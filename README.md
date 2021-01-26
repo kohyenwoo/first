@@ -1,6 +1,6 @@
-                    ##하루를 시작하는 영어 스터디(English free talking which starting the day)
+title: 하루를 시작하는 영어 스터디(English free talking which starting the day)
 
-스터디를 만드는 이유(Why I want to make a study?)
+excert: 스터디를 만드는 이유(Why I want to make a study?)
 1. 불규칙한 생활을 방지하기 위한, 하루를 시작하는 버닝업! ( Burning up the day to prevent irregular living!)
 2. 평소에 하기 힘든 영어 스피킹(It is not common for us to speak English.)
 3. 자신의 계획을 발표함으로서 자신의 목표를 다잡는다. (Set your goals by announcing your plans.)
@@ -10,7 +10,7 @@
 시간(Time)
 1. 8 a.m. 또는 9 a.m 
 2. 일주일 중 평일(5일) - Fifth a week (weekday 5 days)
-3, 하루에 50분 -  50 minutes a day.
+3. 하루에 50분 -  50 minutes a day.
 
 어디서, 어떻게(Where, How)
 1. Google ‘행 아웃(Hang out)’
